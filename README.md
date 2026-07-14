@@ -1,5 +1,5 @@
 andrew@grant -———————————————————————————————————————————-—-
-. OS: ........................ Windows 10, Android 14, Linux
+. OS: . . . . . . . . . . . . . . . . . . . . . . . . Windows 10, Android 14, Linux
 . Uptime: ...................... 22 years, 5 months, 29 days
 . Host: ............................. TTM Technologies, Inc.
 . Kernel: ...... CAM (Computer Aided Manufacturing) Operator
