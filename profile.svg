@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="500" style="font-family:monospace; font-size:16px;">
+  <rect x="0" y="0" width="850" height="500" rx="30" ry="30" fill="#0d1117" />
+  <text x="20" y="45" fill="white">Обо мне -————————————————————————————————————————————————————————————————————————-—-</text>
+
+  <text x="20" y="75" fill="orange">. ОС:</text>
+  <text x="80" y="75" fill="white">................................</text>
+  <text x="400" y="75" fill="cyan">Fedora Linux 44 (Workstation Edition)</text>
+
+  <text x="20" y="100" fill="orange">. Дата рождения:</text>
+  <text x="185" y="100" fill="white">.....................</text>
+  <text x="400" y="100" fill="cyan">7 июня 2009</text>
+
+  <text x="20" y="130" fill="orange">. IDE:</text>
+  <text x="90" y="130" fill="white">...............................</text>
+  <text x="400" y="130" fill="cyan">Sublime Text, VS Code</text>
+
+  <text x="20" y="160" fill="orange">. Языки программирования:</text>
+  <text x="260" y="160" fill="white">.............</text>
+  <text x="400" y="160" fill="cyan">Python, JavaScript</text>
+
+  <text x="20" y="190" fill="orange">. Компьютерные языки:</text>
+  <text x="240" y="190" fill="white">...............</text>
+  <text x="400" y="190" fill="cyan">HTML, CSS, JSON</text>
+
+  <text x="20" y="220" fill="orange">. Реальные языки:</text>
+  <text x="200" y="220" fill="white">...................</text>
+  <text x="400" y="220" fill="cyan">Русский, Узбекский, Английский</text>
+
+  <text x="20" y="250" fill="white">Навыки -—————————————————————————————————————————————————————————————————————————-—-</text>
+
+  <text x="20" y="280" fill="orange">. Хобби (ПО):</text>
+  <text x="220" y="280" fill="white">.................</text>
+  <text x="400" y="280" fill="cyan">Создание ресурс‑паков и модов для игр</text>
+
+  <text x="20" y="310" fill="orange">. Разработчик:</text>
+  <text x="150" y="310" fill="white">........................</text>
+  <text x="400" y="310" fill="cyan">Backend, Gameplay</text>
+
+  <text x="20" y="340" fill="white">Контакты -———————————————————————————————————————————————————————————————————————-—-</text>
+
+  <text x="20" y="370" fill="orange">. Email (личный/рабочий):</text>
+  <text x="250" y="370" fill="white">..............</text>
+  <text x="400" y="370" fill="cyan">kaispeedrungay@gmail.com</text>
+
+  <text x="20" y="400" fill="orange">. Steam профиль:</text>
+  <text x="190" y="400" fill="white">....................</text>
+  <text x="400" y="400" fill="cyan">https://steamcommunity.com/id/kai_speedrun</text>
+
+  <text x="20" y="430" fill="orange">. Telegram:</text>
+  <text x="150" y="430" fill="white">........................</text>
+  <text x="400" y="430" fill="cyan">https://t.me/kai_speedrun</text>
+
+  <text x="20" y="460" fill="white">-————————————————————————————————————————————————————————————————————————————————-—-</text>
+</svg>
