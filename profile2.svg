@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" style="font-family:monospace; font-size:16px;">
+  <rect x="0" y="0" width="1200" height="480" rx="30" ry="30" fill="#1a1a1a" />
+
+<text x="20" y="45" fill="red">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x="20" y="63" fill="red">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢁⣴⣦⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x="20" y="81" fill="red">⠀⡀⠀⡀⠀⠀⠀⠀⠀⠀⢠⠘⣿⣿⡇⠠⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀</text>
+<text x="20" y="99" fill="red">⣼⣱⣿⣿⡇⢰⠆⠀⠀⠀⠀⠀⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⣎⢸⣿⡄⢠⡀⠀</text>
+<text x="20" y="117" fill="red">⠙⠦⣍⠩⠰⠁⠀⠀⠀⠀⠀⠀⣿⣿⣿⡁⠀⠀⠀⠀⠀⠀⠀⠈⠳⠬⠑⠸⠃⠀</text>
+<text x="20" y="135" fill="red">⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣀⣉⣏⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⡀⠀⠀⠀</text>
+<text x="20" y="153" fill="red">⠀⠀⠀⠀⣀⣀⣀⣷⡆⠛⠛⠛⢛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⠀⡇</text>
+<text x="20" y="171" fill="red">⠀⠀⠀⠀⠹⣮⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠅⠀⠠⠬⢍⡹⣿⣿⠿⠁⠘⠀</text>
+<text x="20" y="189" fill="red">⠀⠀⠀⠀⠀⠀⠑⠓⠛⠛⠺⠟⠉⠁⢹⣿⣿⡟⠀⣤⢀⡀⢀⠳⠍⠀⠐⠁⠀⠀</text>
+<text x="20" y="207" fill="red">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⠀⢻⡸⣿⡆⣇⠀⠀⠀⠀⠀⠀</text>
+<text x="20" y="225" fill="red">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⡟⠀⠀⣧⢹⣿⣸⡄⠀⠀⠀⠀⠀</text>
+<text x="20" y="243" fill="red">⠀⠀⠀⠀⠀⢠⢇⣾⣷⡼⡄⠀⠀⠀⢸⣿⣿⠀⠀⠀⡝⢀⣿⣇⠀⠀⠀⠀⠀⠀</text>
+<text x="20" y="261" fill="red">⠀⠀⠀⠀⠀⠸⡼⣿⣿⡇⣇⠀⠀⠀⢸⣿⣿⠀⠀⢠⢁⣿⣿⡏⠀⠀⠀⠀⠀⠀</text>
+<text x="20" y="279" fill="red">⠀⠀⠀⠀⠀⠀⠱⡜⢿⣿⡜⣆⠀⠀⢸⣿⣿⠀⡤⣣⣾⣿⡟⠁⠀⠀⠀⠀⠀⠀</text>
+<text x="20" y="297" fill="red">⠀⠀⠀⠀⠀⠀⠀⠙⣮⢿⣿⣮⠢⠀⢸⣿⣿⣧⣼⣿⡿⠟⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x="20" y="315" fill="red">⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⢻⣿⡇⠀⣸⣿⣿⣿⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x="20" y="333" fill="red">⢀⡀⠀⠀⠀⠀⢠⡀⢠⣘⣓⣠⣤⣾⣿⣿⣿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x="20" y="351" fill="red">⡾⢺⣷⣾⠙⡧⠈⢳⡸⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⣠⣷⣿⣿⢷⡆⠀⠀</text>
+<text x="20" y="369" fill="red">⣧⣿⠛⡏⢸⠀⠀⠀⢷⡸⠿⠛⣁⢰⣿⣿⠀⠀⠀⠀⠀⠀⢹⡟⣿⡿⢃⣸⠀⠀</text>
+<text x="20" y="387" fill="red">⠈⠙⠦⣁⠟⠀⠀⠀⠀⠙⠐⠀⢡⣾⠇⣿⠀⠀⠀⠀⠀⠀⠀⠙⠧⠔⠋⠀⠀⠀</text>
+<text x="20" y="405" fill="red">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠹⡿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+<text x="20" y="423" fill="red">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣦⡵⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+
+  <text x="340" y="45" fill="#a4c705">Обо мне </text>
+  <text x="420" y="45" fill="#a4c705">-————————————————————————————————————————————————————————————————————————-—-</text>
+  <text x="340" y="75" fill="#eb5c13">. ОС:</text>
+  <text x="400" y="75" fill="green">................................</text>
+  <text x="720" y="75" fill="#ffffff">Fedora Linux 44 (Workstation Edition)</text>
+
+  <text x="340" y="100" fill="#eb5c13">. Дата рождения:</text>
+  <text x="505" y="100" fill="green">.....................</text>
+  <text x="720" y="100" fill="#ffffff">7 июня 2009</text>
+
+  <text x="340" y="130" fill="#eb5c13">. IDE:</text>
+  <text x="410" y="130" fill="green">...............................</text>
+  <text x="720" y="130" fill="#ffffff">Sublime Text, VS Code</text>
+
+  <text x="340" y="160" fill="#eb5c13">. Языки программирования:</text>
+  <text x="580" y="160" fill="green">.............</text>
+  <text x="720" y="160" fill="#ffffff">Python, JavaScript</text>
+
+  <text x="340" y="190" fill="#eb5c13">. Компьютерные языки:</text>
+  <text x="560" y="190" fill="green">...............</text>
+  <text x="720" y="190" fill="#ffffff">HTML, CSS, JSON</text>
+
+  <text x="340" y="220" fill="#eb5c13">. Реальные языки:</text>
+  <text x="520" y="220" fill="green">...................</text>
+  <text x="720" y="220" fill="#ffffff">Русский, Узбекский, Английский</text>
+
+  <text x="340" y="250" fill="#a4c705">Навыки</text>
+  <text x="420" y="250" fill="#a4c705">-————————————————————————————————————————————————————————————————————————-—-</text>
+
+  <text x="340" y="280" fill="#eb5c13">. Хобби (ПО):</text>
+  <text x="560" y="280" fill="green">.................</text>
+  <text x="720" y="280" fill="#ffffff">Создание ресурс‑паков и модов для игр</text>
+
+  <text x="340" y="310" fill="#eb5c13">. Разработчик:</text>
+  <text x="470" y="310" fill="green">........................</text>
+  <text x="720" y="310" fill="#ffffff">Backend, Gameplay</text>
+
+  <text x="340" y="340" fill="#a4c705">Контакты</text>
+  <text x="430" y="340" fill="#a4c705">-———————————————————————————————————————————————————————————————————————-—-</text>
+
+  <text x="340" y="370" fill="#eb5c13">. Email (личный/рабочий):</text>
+  <text x="570" y="370" fill="green">..............</text>
+  <text x="720" y="370" fill="#ffffff">kaispeedrungay@gmail.com</text>
+
+  <text x="340" y="400" fill="#eb5c13">. Steam профиль:</text>
+  <text x="510" y="400" fill="green">....................</text>
+  <text x="720" y="400" fill="#ffffff">https://steamcommunity.com/id/kai_speedrun</text>
+
+  <text x="340" y="430" fill="#eb5c13">. Telegram:</text>
+  <text x="470" y="430" fill="green">........................</text>
+  <text x="720" y="430" fill="#ffffff">https://t.me/kai_speedrun</text>
+
+  <text x="340" y="460" fill="#a4c705">-————————————————————————————————————————————————————————————————————————————————-—-</text>
+</svg>
