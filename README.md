@@ -4,70 +4,75 @@
 
 ---
 
-### <img src="./Icon/linux.svg" width="24" align="center"> Обо мне
-Я Backend-разработчик. Мой ник — **TylaganovIbrohim**. Я создаю надежные серверные архитектуры, работаю с базами данных и деплоем. Живу и дышу кодом, предпочитаю Fedora Linux и не признаю компромиссов в качестве своего бэкенда. 
+### 🐧 Обо мне
+Я Backend-разработчик. Мой ник — **TylaganovIbrohim**. Я создаю надежные серверные архитектуры, работаю с базами данных и деплоем. Живу и дышу кодом, предпочитаю Fedora Linux и не признаю компромиссов в качестве своего бэкенда.
 
-### <img src="./Icon/python.svg" width="24" align="center"> Мой стек и технологии
+---
+
+### 💻 Мой стек и технологии
 
 **Языки и основы:**
 <p align="center">
-  <img src="./Icon/python.svg" width="50" alt="Python" title="Python" style="margin: 5px;"/>
-  <img src="./Icon/nodejs.svg" width="50" alt="Node.js" title="Node.js" style="margin: 5px;"/>
-  <img src="./Icon/html5.svg" width="50" alt="HTML5" title="HTML5" style="margin: 5px;"/>
-  <img src="./Icon/css_old.svg" width="50" alt="CSS" title="CSS" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 **Базы данных и Облако (Backend & Deploy):**
 <p align="center">
-  <img src="./logo/supabase_wordmark_dark.svg" height="40" alt="Supabase" title="Supabase" style="margin: 10px;"/>
-  <img src="./logo/firebase-wordmark.svg" height="40" alt="Firebase" title="Firebase" style="margin: 10px;"/>
-  <img src="./logo/render_wordmark_white.svg" height="40" alt="Render" title="Render" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 </p>
 
 **Инструменты, AI и IDE:**
 <p align="center">
-  <img src="./Icon/sublimetext.svg" width="45" alt="Sublime Text" title="Sublime Text" style="margin: 5px;"/>
-  <img src="./Icon/github_dark.svg" width="45" alt="GitHub" title="GitHub" style="margin: 5px;"/>
-  <img src="./Icon/copilot_dark.svg" width="45" alt="GitHub Copilot" title="Copilot" style="margin: 5px;"/>
-  <img src="./Icon/qwen_dark.svg" width="45" alt="Qwen" title="Qwen" style="margin: 5px;"/>
-  <img src="./Icon/kimi-icon.svg" width="45" alt="Kimi" title="Kimi" style="margin: 5px;"/>
-  <img src="./Icon/opencode-dark.svg" width="45" alt="OpenCode" title="OpenCode" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Qwen-000000?style=for-the-badge&logo=alibaba&logoColor=white" alt="Qwen"/>
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=code&logoColor=white" alt="OpenCode"/>
 </p>
 
 **ОС и Браузеры:**
 <p align="center">
-  <img src="./Icon/linux.svg" width="40" alt="Linux" title="Linux" style="margin: 5px;"/>
-  <img src="./Icon/windows.svg" width="40" alt="Windows" title="Windows" style="margin: 5px;"/>
-  <img src="./Icon/firefox.svg" width="40" alt="Firefox" title="Firefox" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Firefox"/>
 </p>
 
 ---
 
-### <img src="./logo/github_wordmark_dark.svg" height="24" align="center"> Моя статистика
+### 📊 Моя статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TylaganovIbrohim&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TylaganovIbrohim&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylaganovIbrohim&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylaganovIbrohim&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TylaganovIbrohim&theme=radical&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
 </p>
 
 ---
 
-### <img src="./Icon/discord.svg" width="24" align="center"> Связаться со мной
+### 📫 Связаться со мной
 
 <p align="center">
   <a href="https://t.me/kai_speedrun">
-    <img src="./Icon/telegram.svg" width="45" alt="Telegram" title="Telegram" style="margin: 10px;"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://discord.com/users/kai_speedrun">
-    <img src="./Icon/discord.svg" width="45" alt="Discord" title="Discord" style="margin: 10px;"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="mailto:kaispeedrungay@gmail.com">
-    <img src="./Icon/gmail.svg" width="45" alt="Gmail" title="Gmail" style="margin: 10px;"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://steamcommunity.com/id/kai_speedrun">
-    <img src="./Icon/steam.svg" width="45" alt="Steam" title="Steam" style="margin: 10px;"/>
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
 </p>
