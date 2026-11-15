@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,50:00B4D8,100:4361EE&height=220&section=header&text=Tylaganov%20Ibrohim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%26%20Node.js&descAlignY=58&descSize=18" width="100%"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ECF8E&center=true&vCenter=true&width=650&lines=Building+scalable+backends;Python+%26+Node.js+daily;Firebase+%7C+Supabase+%7C+Render;Fedora+Linux+enjoyer;Currently+crafting+LinguaCraft" alt="Typing SVG"/>
 </div>
 
@@ -96,11 +92,6 @@ class BackendDeveloper:
     <img src="https://streak-stats.demolab.com?user=TylaganovIbrohim&hide_border=true&background=0D1117&ring=3ECF8E&fire=00D4FF&currStreakLabel=3ECF8E" alt="GitHub Streak"/>
   </picture>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TylaganovIbrohim&bg_color=00000000&color=10b981&line=3ECF8E&point=00D4FF&area=true&area_color=3ECF8E&hide_border=true&radius=8&custom_title=Contribution%20Graph" width="100%"/>
-</div>
-
 <details>
 <summary><b>$ git shortlog --summary --numbered &nbsp;(trophies)</b></summary>
 <br/>
