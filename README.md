@@ -1,95 +1,164 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TylaganovIbrohim&theme=github-dark&bg_color=0d1117&color=00FF00&line=00CC00&point=00FF00&area=true&hide_border=true" />
-</div>
-
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> Мой стек технологий
-💻 Языки программирования
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-☁️ Базы данных и Облачные платформы
-<p align="center">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-</p>
-
-🛠️ Инструменты и IDE
-<p align="center">
-  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot"/>
-</p>
-
-🤖 AI инструменты
-<p align="center">
-  <img src="https://img.shields.io/badge/Qwen-000000?style=for-the-badge&logo=alibaba&logoColor=white" alt="Qwen"/>
-  <img src="https://img.shields.io/badge/Kimi-000000?style=for-the-badge&logo=moon&logoColor=white" alt="Kimi"/>
-  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=code&logoColor=white" alt="OpenCode"/>
-</p>
-
-🐧 Операционные системы
-<p align="center">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</p>
-
-<img src="https://media.giphy.com/media/kM3hMvSxKxLxe/giphy.gif" width="30"> GitHub Статистика
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TylaganovIbrohim&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylaganovIbrohim&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff" alt="Top Languages" width="350"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,50:00B4D8,100:4361EE&height=220&section=header&text=Tylaganov%20Ibrohim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%26%20Node.js&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TylaganovIbrohim&theme=radical&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ECF8E&center=true&vCenter=true&width=650&lines=Building+scalable+backends;Python+%26+Node.js+daily;Firebase+%7C+Supabase+%7C+Render;Fedora+Linux+enjoyer;Currently+crafting+LinguaCraft" alt="Typing SVG"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TylaganovIbrohim&style=for-the-badge&color=3ECF8E&label=PROFILE+VIEWS" alt="views"/>
+  <a href="https://github.com/TylaganovIbrohim?tab=followers">
+    <img src="https://img.shields.io/github/followers/TylaganovIbrohim?style=for-the-badge&color=00D4FF&labelColor=0d1117&logo=github" alt="followers"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Backend-3ECF8E?style=for-the-badge&labelColor=0d1117" alt="focus"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:4361EE&height=3" width="100%"/>
+
+## <img src="https://cdn.simpleicons.org/gnometerminal/3ECF8E" width="22"/> `$ whoami`
+
+```python
+#!/usr/bin/env python3
+class BackendDeveloper:
+    def __init__(self):
+        self.name      = "Ibrohim Tylaganov"
+        self.alias     = "TylaganovIbrohim"
+        self.role      = "Backend & Gameplay Developer"
+        self.os        = "Fedora Linux"
+        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
+        self.runtime   = ["Node.js"]
+        self.backend   = ["Supabase", "Firebase", "PostgreSQL"]
+        self.deploy    = ["Render"]
+        self.editors   = ["VS Code", "Sublime Text"]
+        self.ai_tools  = ["Copilot", "Qwen", "Kimi", "OpenCode"]
+
+    def focus(self) -> list[str]:
+        return ["Scalable APIs", "Gameplay systems", "LinguaCraft"]
+
+    def motto(self) -> str:
+        return "Make it work. Make it clean. Make it fast."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:4361EE&height=3" width="100%"/>
+
+## <img src="https://cdn.simpleicons.org/python/3ECF8E" width="22"/> `$ cat tech_stack.txt`
+
+<div align="center">
+
+**Languages & Runtime**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css&theme=dark"/>
+
+**Backend & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,render&theme=dark"/>
+
+**Tools & Environment**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,blender,bash,linux,windows&theme=dark"/>
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=qwen&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kimi-1A1A2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCode-0D1117?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:4361EE&height=3" width="100%"/>
+
+## <img src="https://cdn.simpleicons.org/github/3ECF8E" width="22"/> `$ git log --stat`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TylaganovIbrohim&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=8&bg_color=0d1117&title_color=3ECF8E&icon_color=00D4FF&text_color=c9d1d9"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TylaganovIbrohim&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=8&bg_color=ffffff&title_color=059669&icon_color=0891b2&text_color=24292f"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=TylaganovIbrohim&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3ECF8E&icon_color=00D4FF&text_color=c9d1d9" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TylaganovIbrohim&layout=compact&langs_count=8&hide_border=true&border_radius=8&bg_color=0d1117&title_color=3ECF8E&text_color=c9d1d9"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TylaganovIbrohim&layout=compact&langs_count=8&hide_border=true&border_radius=8&bg_color=ffffff&title_color=059669&text_color=24292f"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylaganovIbrohim&layout=compact&hide_border=true&bg_color=0d1117&title_color=3ECF8E&text_color=c9d1d9" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TylaganovIbrohim&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TylaganovIbrohim&hide_border=true&border_radius=8&background=0D1117&stroke=30363d&ring=3ECF8E&fire=00D4FF&currStreakLabel=3ECF8E&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=TylaganovIbrohim&hide_border=true&border_radius=8&background=FFFFFF&stroke=d0d7de&ring=059669&fire=0891b2&currStreakLabel=059669&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a"/>
+    <img src="https://streak-stats.demolab.com?user=TylaganovIbrohim&hide_border=true&background=0D1117&ring=3ECF8E&fire=00D4FF&currStreakLabel=3ECF8E" alt="GitHub Streak"/>
+  </picture>
 </div>
 
-<img src="https://media.giphy.com/media/jpVnC65Dlm2bC/giphy.gif" width="30"> Что я делаю сейчас
-
-    🔭 Работаю над масштабируемыми backend-архитектурами
-    🌱 Изучаю новые облачные технологии и микросервисы
-    👯 Готов к сотрудничеству над open-source проектами
-    💬 Спроси меня о Python, Node.js, Supabase, Firebase
-    📫 Как со мной связаться: kaispeedrungay@gmail.com
-    ⚡ Fun fact: Я живу на Fedora Linux и не признаю компромиссов!
-
-<img src="https://media.giphy.com/media/mGcF4qkVWwQlO/giphy.gif" width="30"> Девиз
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TylaganovIbrohim&bg_color=00000000&color=10b981&line=3ECF8E&point=00D4FF&area=true&area_color=3ECF8E&hide_border=true&radius=8&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> Связаться со мной
+<details>
+<summary><b>$ git shortlog --summary --numbered &nbsp;(trophies)</b></summary>
+<br/>
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TylaganovIbrohim&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+</div>
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:4361EE&height=3" width="100%"/>
+
+## <img src="https://cdn.simpleicons.org/git/3ECF8E" width="22"/> `$ ls ~/projects`
+
+| Project | Description | Stack | Status |
+|:--|:--|:--|:--|
+| **LinguaCraft** | Minecraft mod that teaches languages through speech recognition — pronounce words to perform in-game actions, with multiplayer support | Minecraft · Speech Recognition | ![dev](https://img.shields.io/badge/in_development-3ECF8E?style=flat-square) |
+| **qr-code** | Fast-food mini-site: categories, subcategories, menu, live search and product cards | HTML · CSS · JavaScript | ![active](https://img.shields.io/badge/active-00D4FF?style=flat-square) |
+| **profile-readme** | This profile: terminal aesthetic, theme-aware widgets, contribution snake | Markdown · GitHub Actions | ![live](https://img.shields.io/badge/live-4361EE?style=flat-square) |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:4361EE&height=3" width="100%"/>
+
+## <img src="https://cdn.simpleicons.org/githubactions/3ECF8E" width="22"/> `$ ./snake --eat-contributions`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TylaganovIbrohim/TylaganovIbrohim/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TylaganovIbrohim/TylaganovIbrohim/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/TylaganovIbrohim/TylaganovIbrohim/output/github-snake.svg" alt="Contribution Snake" width="100%"/>
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:4361EE&height=3" width="100%"/>
+
+## <img src="https://cdn.simpleicons.org/telegram/3ECF8E" width="22"/> `$ ping me`
+
+<p align="center">
   <a href="https://t.me/kai_speedrun">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/kai_speedrun">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  <img src="https://img.shields.io/badge/Discord-kai__speedrun-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   <a href="mailto:kaispeedrungay@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://steamcommunity.com/id/kai_speedrun">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
+  <a href="https://github.com/TylaganovIbrohim">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:009900,50:00CC00,100:00FF00&height=120&section=footer"/>
+  <sub>crafted on Fedora Linux · powered by coffee and clean code</sub>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TylaganovIbrohim&label=Profile%20views&color=00FF00&style=flat" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361EE,50:00B4D8,100:3ECF8E&height=120&section=footer" width="100%"/>
 </div>
