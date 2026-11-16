@@ -102,16 +102,6 @@ class BackendDeveloper:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:4361EE&height=3" width="100%"/>
 
-## <img src="https://cdn.simpleicons.org/git/3ECF8E" width="22"/> `$ ls ~/projects`
-
-| Project | Description | Stack | Status |
-|:--|:--|:--|:--|
-| **LinguaCraft** | Minecraft mod that teaches languages through speech recognition — pronounce words to perform in-game actions, with multiplayer support | Minecraft · Speech Recognition | ![dev](https://img.shields.io/badge/in_development-3ECF8E?style=flat-square) |
-| **qr-code** | Fast-food mini-site: categories, subcategories, menu, live search and product cards | HTML · CSS · JavaScript | ![active](https://img.shields.io/badge/active-00D4FF?style=flat-square) |
-| **profile-readme** | This profile: terminal aesthetic, theme-aware widgets, contribution snake | Markdown · GitHub Actions | ![live](https://img.shields.io/badge/live-4361EE?style=flat-square) |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:4361EE&height=3" width="100%"/>
-
 ## <img src="https://cdn.simpleicons.org/githubactions/3ECF8E" width="22"/> `$ ./snake --eat-contributions`
 
 <div align="center">
